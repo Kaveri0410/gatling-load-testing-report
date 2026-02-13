@@ -93,16 +93,16 @@ The system maintained stable response times and achieved a **100% success rate w
 # 📊 Performance Graphs
 
 ### Graph 1
-![Graph 1](graph1.png)
+![Graph 1](screenshots/graph1.png)
 
 ### Graph 2
-![Graph 2](graph2.png)
+![Graph 2](screenshots/graph2.png)
 
 ### Graph 3
-![Graph 3](graph3.png)
+![Graph 3](screenshots/graph3.png)
 
 ### Graph 4
-![Graph 4](graph4.png)
+![Graph 4](screenshots/graph4.png)
 
 ### Graph 5
-![Graph 5](graph5.png)
+![Graph 5](screenshots/graph5.png)
